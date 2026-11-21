@@ -1,0 +1,15 @@
+{
+  "name": "Bridgework Recruitment",
+  "description": "Professional recruiter with a split-flap board of current roles, sector desks, separate candidate and employer paths, and the team.",
+  "tech": "next",
+  "type": "recruitment",
+  "style": "connect",
+  "internal": false,
+  "components": ["support-form"],
+  "configFile": "site.config.json",
+  "screenshots": {
+    "light": "jamstacks/home-light.jpg",
+    "dark": "jamstacks/home-dark.jpg",
+    "theme": { "strategy": "media" }
+  }
+}

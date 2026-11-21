@@ -1,7 +1,8 @@
 {
-  "name": "Jamstacks starter",
-  "description": "A neutral Next.js foundation for Jamstacks websites.",
-  "domain": "",
+  "name": "Bridgework Recruitment",
+  "description": "Leeds recruitment consultancy with six sector desks: current permanent, contract and temporary roles across Yorkshire, a named consultant for every role, and clear fees for employers.",
+  "domain": "next-recruitment-connect.jamstacks.net",
+  "timeZone": "Europe/London",
   "jamstacks": {
     "siteId": "",
     "cdnUrl": "https://cdn.jamstacks.net"
