@@ -1,0 +1,22 @@
+{
+  "templateId": "next-recruitment-connect",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "fullPage": false,
+  "captures": [
+    {
+      "mode": "light",
+      "sha256": "2aac188c1190b1ff06f794966c2f1f9e28af5de5aad433f4807c16a3e45a7bc8",
+      "file": "jamstacks/home-light.jpg",
+      "bytes": 189930
+    },
+    {
+      "mode": "dark",
+      "sha256": "be1b40fceb1d9f8ad2af66b1bb71788dd1f7cb05127932ba3f7ac8d88f427cb9",
+      "file": "jamstacks/home-dark.jpg",
+      "bytes": 166485
+    }
+  ]
+}
